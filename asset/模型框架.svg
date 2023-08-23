@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 模型框架.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.04013in" height="3.92174in"
+		viewBox="0 0 434.89 282.365" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:宋体;font-size:1.5em}
+		.st6 {font-family:Calibri;font-size:1em}
+		.st7 {font-family:微软雅黑;font-size:1em}
+		.st8 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st9 {fill:#b7dde8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#fff2cc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st11 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {marker-end:url(#mrkr4-31);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st13 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st14 {fill:#ffffff;stroke:#000000;stroke-dasharray:3,3;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st15 {fill:#ffffff;stroke:#000000;stroke-dasharray:2.25,2.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.2}
+		.st17 {fill:#bf9000;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st18 {fill:#31859b;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-31" class="st13" v:arrowType="4" v:arrowSize="2" v:setback="8.72" refX="-8.72" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="group133-1" transform="translate(0.499909,-0.5)" v:mID="133" v:groupContext="group">
+			<title>工作表.133</title>
+			<g id="shape22-2" v:mID="22" v:groupContext="shape" transform="translate(336,-57.5433)">
+				<title>圆角矩形.22</title>
+				<desc>Entity Linking “感冒”</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.049868756076523):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.049868756076523):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.049868756076523):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.049868756076523):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="48.9449" cy="218.869" width="97.89" height="126.992"/>
+				<path d="M3.59 282.37 L94.3 282.37 A3.59049 3.59049 -180 0 0 97.89 278.77 L97.89 158.96 A3.59049 3.59049 -180 0 0
+							 94.3 155.37 L3.59 155.37 A3.59049 3.59049 -180 0 0 -0 158.96 L0 278.77 A3.59049 3.59049 -180 0 0 3.59
+							 282.37 Z" class="st1"/>
+				<text x="13.94" y="251.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Entity Linking<v:newlineChar/><tspan
+							x="28.94" dy="1.2em" class="st3">“</tspan>感冒”</text>			</g>
+			<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(2.23821E-13,-259.087)">
+				<title>工作表.3</title>
+				<desc>知识图谱与AIGC的问答系统 - 模型框架</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.232" cy="271.163" width="430.47" height="22.4037"/>
+				<rect x="0" y="259.962" width="430.465" height="22.4037" class="st4"/>
+				<text x="63.5" y="277.15" class="st5" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>知识图谱与<tspan
+							class="st6" v:langID="1033">AIGC</tspan><tspan class="st7">的问答系统</tspan><tspan class="st8"> </tspan><tspan
+							class="st8">-</tspan><tspan class="st8"> </tspan><tspan class="st7">模型框架</tspan></text>			</g>
+			<g id="shape6-15" v:mID="6" v:groupContext="shape" transform="translate(1.59872E-13,-212.882)">
+				<title>圆角矩形</title>
+				<desc>User Query “你知道感冒吗”</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.077143977728885):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.077143977728885):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.077143977728885):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.077143977728885):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.232" cy="267.058" width="430.47" height="30.6142"/>
+				<path d="M5.55 282.37 L424.91 282.37 A5.55428 5.55428 -180 0 0 430.46 276.81 L430.46 257.31 A5.55428 5.55428 -180
+							 0 0 424.91 251.75 L5.55 251.75 A5.55428 5.55428 -180 0 0 0 257.31 L0 276.81 A5.55428 5.55428 -180 0
+							 0 5.55 282.37 Z" class="st9"/>
+				<text x="190.23" y="264.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>User Query<v:newlineChar/><tspan
+							x="170.23" dy="1.2em" class="st3">“</tspan>你知道感冒吗？”</text>			</g>
+			<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(163.654,-153.921)">
+				<title>圆角矩形.7</title>
+				<desc>Intent Recoginiton</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.068241400912525):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.068241400912525):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.068241400912525):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.068241400912525):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="68.7874" cy="267.058" width="137.58" height="30.6142"/>
+				<path d="M4.91 282.37 L132.66 282.37 A4.9133 4.9133 -180 0 0 137.57 277.45 L137.57 256.66 A4.9133 4.9133 -180 0 0
+							 132.66 251.75 L4.91 251.75 A4.9133 4.9133 -180 0 0 -0 256.66 L0 277.45 A4.9133 4.9133 -180 0 0 4.91
+							 282.37 Z" class="st10"/>
+				<text x="23.79" y="270.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Intent Recoginiton</text>			</g>
+			<g id="shape9-22" v:mID="9" v:groupContext="shape" transform="translate(-2.39808E-14,-57.5433)">
+				<title>圆角矩形.9</title>
+				<desc>LLM (ChatGPT,ChatGLM...)</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.076115440978265):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.076115440978265):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.076115440978265):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.076115440978265):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="60.2835" cy="218.869" width="120.57" height="126.992"/>
+				<path d="M5.48 282.37 L115.09 282.37 A5.48022 5.48022 -180 0 0 120.57 276.89 L120.57 160.85 A5.48022 5.48022 -180
+							 0 0 115.09 155.37 L5.48 155.37 A5.48022 5.48022 -180 0 0 -0 160.85 L0 276.89 A5.48022 5.48022 -180 0
+							 0 5.48 282.37 Z" class="st11"/>
+				<text x="52.78" y="215.87" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>LLM <tspan
+							x="10.28" dy="1.2em" class="st3">(ChatGPT,ChatGLM...)</tspan></text>			</g>
+			<g id="shape10-26" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(163.654,-175.987)">
+				<title>动态连接线</title>
+				<path d="M0 289.12 L-36.55 289.68" class="st12"/>
+			</g>
+			<g id="shape11-32" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(225.354,-153.921)">
+				<title>动态连接线.11</title>
+				<path d="M7.09 282.37 L7.09 293.97" class="st12"/>
+			</g>
+			<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(163.654,-105.165)">
+				<title>圆角矩形.12</title>
+				<desc>Slot Filling Example slots疾病症状</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.068241400912527):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.068241400912527):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.068241400912527):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.068241400912527):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="68.7874" cy="267.058" width="137.58" height="30.6142"/>
+				<path d="M4.91 282.37 L132.66 282.37 A4.9133 4.9133 -180 0 0 137.57 277.45 L137.57 256.66 A4.9133 4.9133 -180 0 0
+							 132.66 251.75 L4.91 251.75 A4.9133 4.9133 -180 0 0 0 256.66 L0 277.45 A4.9133 4.9133 -180 0 0 4.91 282.37
+							 Z" class="st10"/>
+				<text x="38.79" y="264.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Slot Filling<v:newlineChar/><tspan
+							x="6.29" dy="1.2em" class="st3">Example slots</tspan>：疾病，症状</text>			</g>
+			<g id="shape14-41" v:mID="14" v:groupContext="shape" transform="translate(4.62992,-64.063)">
+				<title>圆角矩形.14</title>
+				<desc>Template Response 备用</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.070269585590894):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.070269585590894):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.070269585590894):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.070269585590894):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="55.6535" cy="267.058" width="111.31" height="30.6142"/>
+				<path d="M5.06 282.37 L106.25 282.37 A5.05933 5.05933 -180 0 0 111.31 277.31 L111.31 256.81 A5.05933 5.05933 -180
+							 0 0 106.25 251.75 L5.06 251.75 A5.05933 5.05933 -180 0 0 0 256.81 L0 277.31 A5.05933 5.05933 -180 0
+							 0 5.06 282.37 Z" class="st14"/>
+				<text x="13.15" y="264.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Template Response<v:newlineChar/><tspan
+							x="35.65" dy="1.2em" class="st3">（</tspan>备用）</text>			</g>
+			<g id="shape18-45" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(225.354,-105.165)">
+				<title>动态连接线.18</title>
+				<path d="M7.09 282.37 L7.09 292.83" class="st12"/>
+			</g>
+			<g id="shape19-50" v:mID="19" v:groupContext="shape" transform="translate(163.654,-57.5433)">
+				<title>圆角矩形.19</title>
+				<desc>Knowledge Graph</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.068241400912531):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.068241400912531):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.068241400912531):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.068241400912531):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="68.7874" cy="267.058" width="137.58" height="30.6142"/>
+				<path d="M4.91 282.37 L132.66 282.37 A4.9133 4.9133 -180 0 0 137.57 277.45 L137.57 256.66 A4.9133 4.9133 -180 0 0
+							 132.66 251.75 L4.91 251.75 A4.9133 4.9133 -180 0 0 0 256.66 L0 277.45 A4.9133 4.9133 -180 0 0 4.91 282.37
+							 Z" class="st10"/>
+				<text x="31.29" y="270.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Knowledge Graph</text>			</g>
+			<g id="shape21-53" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(336,-79.9369)">
+				<title>动态连接线.21</title>
+				<path d="M0 289.45 L-28.23 289.45" class="st12"/>
+			</g>
+			<g id="shape25-58" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(163.654,-65.7638)">
+				<title>动态连接线.25</title>
+				<path d="M0 275.28 L-36.55 275.28" class="st12"/>
+			</g>
+			<g id="shape29-63" v:mID="29" v:groupContext="shape" transform="translate(3.42518,5.68434E-14)">
+				<title>圆角矩形.29</title>
+				<desc>System Response “感冒症状是...”</desc>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.045989806607685):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.045989806607685):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.045989806607685):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.045989806607685):1"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.232" cy="267.058" width="430.47" height="30.6142"/>
+				<path d="M3.31 282.37 L427.15 282.37 A3.31121 3.31121 -180 0 0 430.46 279.05 L430.46 255.06 A3.31121 3.31121 -180
+							 0 0 427.15 251.75 L3.31 251.75 A3.31121 3.31121 -180 0 0 -0 255.06 L0 279.05 A3.31121 3.31121 -180 0
+							 0 3.31 282.37 Z" class="st10"/>
+				<text x="177.73" y="264.06" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>System Response<v:newlineChar/><tspan
+							x="172.73" dy="1.2em" class="st3">“</tspan>感冒症状是...”</text>			</g>
+			<g id="shape57-67" v:mID="57" v:groupContext="shape" transform="translate(-62.5858,94.1449) rotate(-90)">
+				<title>普通箭头</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<path d="M0 282.37 L11.34 271.16 L11.34 276.76 L21.92 276.76 L21.92 282.37 L21.92 287.97 L11.34 287.97 L11.34 293.57
+							 L0 282.37 Z" class="st11"/>
+			</g>
+			<g id="shape60-69" v:mID="60" v:groupContext="shape" transform="translate(-62.5858,249.291) rotate(-90)">
+				<title>普通箭头.60</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<path d="M0 282.37 L11.34 271.16 L11.34 276.76 L21.92 276.76 L21.92 282.37 L21.92 287.97 L11.34 287.97 L11.34 293.57
+							 L0 282.37 Z" class="st11"/>
+			</g>
+			<g id="group129-71" transform="translate(352.791,-109.74)" v:mID="129" v:groupContext="group">
+				<title>工作表.129</title>
+				<g id="shape127-72" v:mID="127" v:groupContext="shape">
+					<title>圆形</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<path d="M0 250.21 A32.1534 32.1534 0 0 1 64.31 250.21 A32.1534 32.1534 0 1 1 0 250.21 Z" class="st15"/>
+				</g>
+				<g id="shape125-74" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(38.9201,-41.111)">
+					<title>动态连接线.125</title>
+					<path d="M0 283.33 L-15.67 295.57" class="st16"/>
+				</g>
+				<g id="shape124-77" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(32.4051,-40.1467)">
+					<title>动态连接线.124</title>
+					<path d="M6.52 282.37 L7.66 298.13" class="st16"/>
+				</g>
+				<g id="shape122-80" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(27.1653,-32.6872)">
+					<title>动态连接线.122</title>
+					<path d="M1.28 288.24 L12.9 290.67" class="st16"/>
+				</g>
+				<g id="group101-83" transform="translate(4.01969,-8.76315)" v:mID="101" v:groupContext="group">
+					<title>工作表.101</title>
+					<g id="shape78-84" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(3.18539,-31.71)">
+						<title>动态连接线.78</title>
+						<path d="M1.88 287.72 L12.29 291.18" class="st16"/>
+					</g>
+					<g id="shape79-87" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(1.70518,-10.9679)">
+						<title>动态连接线.79</title>
+						<path d="M1.96 276.36 L12.22 274.19" class="st16"/>
+					</g>
+					<g id="shape72-90" v:mID="72" v:groupContext="shape" transform="translate(1.46323,-22.7484)">
+						<title>圆形.72</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 1 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape64-92" v:mID="64" v:groupContext="shape" transform="translate(0.0565558,-13.3635)">
+						<title>圆形.64</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 1 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape80-94" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(6.82012,-6.83786)">
+						<title>动态连接线.80</title>
+						<path d="M1.77 280.49 L12.41 270.06" class="st16"/>
+					</g>
+					<g id="shape68-97" v:mID="68" v:groupContext="shape" transform="translate(4.97996,-5.10338)">
+						<title>圆形.68</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 1 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape84-99" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(25.8309,-19.2527)">
+						<title>动态连接线.84</title>
+						<path d="M-6.6 282.48 L-7.57 296.42" class="st16"/>
+					</g>
+					<g id="shape69-102" v:mID="69" v:groupContext="shape" transform="translate(14.6551,-1.58664)">
+						<title>圆形.69</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 1 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape61-104" v:mID="61" v:groupContext="shape" transform="translate(13.9203,-13.8324)">
+						<title>圆形</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 277.06 A5.30647 5.30647 0 1 1 10.61 277.06 A5.30647 5.30647 0 1 1 0 277.06 Z" class="st18"/>
+					</g>
+				</g>
+				<g id="group102-106" transform="translate(216.811,437.187) rotate(141.8)" v:mID="102" v:groupContext="group">
+					<title>工作表.102</title>
+					<g id="shape103-107" v:mID="103" v:groupContext="shape" v:layerMember="0"
+							transform="translate(3.53707,-32.2926)">
+						<title>动态连接线.78</title>
+						<path d="M2.24 287.14 L11.94 291.77" class="st16"/>
+					</g>
+					<g id="shape104-110" v:mID="104" v:groupContext="shape" v:layerMember="0"
+							transform="translate(1.73057,-10.6018)">
+						<title>动态连接线.79</title>
+						<path d="M1.93 276 L12.24 274.56" class="st16"/>
+					</g>
+					<g id="shape105-113" v:mID="105" v:groupContext="shape" transform="translate(2.16659,-23.9137)">
+						<title>圆形.72</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape106-115" v:mID="106" v:groupContext="shape" transform="translate(0.0565558,-13.3635)">
+						<title>圆形.64</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape107-117" v:mID="107" v:groupContext="shape" v:layerMember="0"
+							transform="translate(6.82012,-6.83786)">
+						<title>动态连接线.80</title>
+						<path d="M1.77 280.49 L12.41 270.06" class="st16"/>
+					</g>
+					<g id="shape108-120" v:mID="108" v:groupContext="shape" transform="translate(4.97996,-5.10338)">
+						<title>圆形.68</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape109-122" v:mID="109" v:groupContext="shape" v:layerMember="0"
+							transform="translate(25.2823,-19.1388)">
+						<title>动态连接线.84</title>
+						<path d="M-6.06 282.37 L-8.12 297.54" class="st16"/>
+					</g>
+					<g id="shape110-125" v:mID="110" v:groupContext="shape" transform="translate(13.5579,-0.361694)">
+						<title>圆形.69</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape111-127" v:mID="111" v:groupContext="shape" transform="translate(13.9203,-13.8324)">
+						<title>圆形</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 277.06 A5.30647 5.30647 0 1 1 10.61 277.06 A5.30647 5.30647 0 1 1 0 277.06 Z" class="st18"/>
+					</g>
+				</g>
+				<g id="group112-129" transform="translate(-223.731,249.587) rotate(-84)" v:mID="112" v:groupContext="group">
+					<title>工作表.112</title>
+					<g id="shape117-130" v:mID="117" v:groupContext="shape" v:layerMember="0"
+							transform="translate(5.5634,-11.2838)">
+						<title>动态连接线.80</title>
+						<path d="M0.51 276.05 L13.66 274.51" class="st16"/>
+					</g>
+					<g id="shape118-133" v:mID="118" v:groupContext="shape" transform="translate(2.46652,-13.9953)">
+						<title>圆形.68</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape119-135" v:mID="119" v:groupContext="shape" v:layerMember="0"
+							transform="translate(12.2212,-19.3067)">
+						<title>动态连接线.84</title>
+						<path d="M7.01 282.53 L7.17 296.37" class="st16"/>
+					</g>
+					<g id="shape120-138" v:mID="120" v:groupContext="shape" transform="translate(15.7821,-1.69459)">
+						<title>圆形.69</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 278.76 A3.60671 3.60671 0 1 1 7.21 278.76 A3.60671 3.60671 0 0 1 -0 278.76 Z" class="st17"/>
+					</g>
+					<g id="shape121-140" v:mID="121" v:groupContext="shape" transform="translate(13.9203,-13.8324)">
+						<title>圆形</title>
+						<v:userDefs>
+							<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+						</v:userDefs>
+						<path d="M0 277.06 A5.30647 5.30647 0 1 1 10.61 277.06 A5.30647 5.30647 0 1 1 0 277.06 Z" class="st18"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape132-142" v:mID="132" v:groupContext="shape" transform="translate(16.5354,-141.36)">
+				<title>圆角矩形.132</title>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.054939127980917):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.054939127980917):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.054939127980917):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.054939127980917):1"/>
+				</v:userDefs>
+				<path d="M3.96 282.37 L83.07 282.37 A3.95555 3.95555 -180 0 0 87.02 278.41 L87.02 255.71 A3.95555 3.95555 -180 0
+							 0 83.07 251.75 L3.96 251.75 A3.95555 3.95555 -180 0 0 -0 255.71 L0 278.41 A3.95555 3.95555 -180 0 0
+							 3.96 282.37 Z" class="st14"/>
+			</g>
+			<g id="shape130-144" v:mID="130" v:groupContext="shape" transform="translate(20.6457,-144.762)">
+				<title>工作表.130</title>
+				<rect v:rectContext="foreign" x="0" y="258.554" width="77.9528" height="23.811" class="st4"/>
+				<clipPath id="clip-path146" clipPathUnits="userSpaceOnUse">
+					<rect x="0" y="258.554" width="77.9528" height="23.811"/>
+				</clipPath>
+				<image x="-9.71787" y="238.559" width="96.1417" height="64.3069" preserveAspectRatio="none"
+						clip-path="url(#clip-path146)" overflow="hidden" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEU
+							gAABBoAAAL2CAIAAABg6GLLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAALiIAAC4iAari3ZIAAGSMSURBV
+							Hhe7d15nI31/8f/3wxjG2RnbFmzp8gairKUVJYi1QeVtYQQLVoolciaPi1S1qSksqRSStmKIpKdGmQbyzAYM/P5vX+feX38fMOZ6
+							3pd13XOdeY87n90C+f9er+vM3Od836ec13v9//zHwAAAABQIU4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAA
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAA
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAA
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							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
+							Fa8ePHp06dnmluTJ02aJAdmwfjx46UZAABAOCBOhIfNmzeXLVtWppyeWblypfRnx6pVq9xaBDZ79uxPPvnkyZMnpXSmYHJRkyZN5
+							AgzYn7Kqamp0hIAAMD3iBNhYM2aNR7dLPEPf/75p3RpWXx8fIECBaS9M+3atdu5c6fUzVw2bdpkff++BQsWSLNIcvbs2T179qxYs
+							WLhwoUzZ86cPHny2Iu89dZbH3744ZIlS9auXbt//35yFwAAfkCc8DszwcqbN6/MND126tQp6dWybt26SWMHatSo8c0330hFb6Skp
+							Hz00UddunRp0qRJs2bN+vbtu3z5cvm3oOjZs6ccbUac3xDvf4mJiT/88MOECRO6d+9ufiLFixeXg7cja9as5cqVu/XWW/v16zd16
+							tT169f7bZd0AAAiAXHC11atWuUwS0RFRbVq1crimq3Sq2XJyckOt+IuUKDA5MmTvZ4FfvHFF1WqVJEuL3DTTTdt2LBBHuSxPXv2x
+							MTESMcBmVny4cOHpVkmcvr0afODeOyxx6677jrr39XYYn4bb7755hEjRvz0009sCwjACfOivcuZhISEo0eP+nwF8P3798twMws5M
+							AQXccK/Nm3a5OQaJzO16t+//7Zt20ypK664Qv728sxkN71f6zZu3CiN7TMTyr59+5pXW6nlja1bt7Zp00a6vBQzjD59+hw5ckQae
+							Mkcr/SakTfeeEPahL+TJ0/Onj27bdu2OXPmlMMLiqJFi/bs2fObb77hmigAdu3cuVNeShy79dZbpagv3XDDDTLQzEIODMHF8+5Tf
+							//995VXXiknh00mGDz66KMHDhyQWtbihHmMPNqyZcuWSWObWrRoYcKSVPHG8ePHBw8ebPELgfz580+cONHrL0lMtpH+MtK8eXNpE
+							85+/vnnhx56yOH3V86VLFny2WefVdwXBCBivfDCC/IK4ljWrFkPHjwodf2HOAFX8Lz70ZkzZ+rVqydnhk2tWrW6+Ms+j+LEt99+K
+							40tK1++/KeffirtvZGamvrOO+8UKVJEurSsWrVqX331lVTxxs033yydBZQtW7YTJ05Im3Bjnn/zI27YsKEcjD9kyZLlnnvu+eWXX
+							2SUAHB5lStXltcON0yaNEnq+g9xAq7gefejXr16yWlhR6FChaZPny4l/i8/xIk8efK8/PLLZ8+elcbe+OGHH2rVqiVdqtxxxx3bt
+							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
+							8DnccK8edjdCcTMV6RxEL3//vvSvWMDBgwIydW9JktY39AjMDNr/PPPP6Wulltxwhg7dqwU9YbFxeUCa9u2rZSzwPl18DVr1gzar
+							9mcOXOk1/8qUaLErFmzXOydOJGh9u3bSyGt0aNHS61QK1eunIxJy/wspFboECciHHHCpyxOg3r06CEN3BAfH3/fffdJaQ+YuGJCi
+							4ku0p83zHMi/V1GCOPEd999lzdvXnm0NZUqVfL6Gbskk2ldXATM/F4F+fOzPXv2XHPNNdK9Y/3795e6DrgYJ7Jnz+7dJU///ve/p
+							Rtnpk2bJhUtSElJKVasmLTU8vRzivN+/vnnnDlzSpcXaNiwofkneZAzxInAjh07li1bNimktWvXLikXaoMHD5YxaZn8L7VChzgR4
+							YgTPtW3b185yQKKi4tz/bKHlStX1q1bVzpwj5lQmrgifXjDvD3cfffd0t/lhSpOvPPOO2YWKA+1Jjo6Oph3YP+DK1vanVenTp2dO
+							3dKaY8tWbLE+e4Z5xUsWNCVbTRcjBOGmXx7cQncV1995cqWl2a2Z3dz9AEDBkhjrYoVK3qdvXfv3h0g9kRFRT3wwAN///23PFqLO
+							BHY22+/LVW0atWqJbV8wLzIy7C0zDtLyNe9IE5EOOKET1m/F9aL6WZaWtp7771nsor04YyZR3o9Jz558uSwYcNy5MghXQYU/DiRl
+							JTUtWtXeZAdiqG6q23btjIUN+TJk2fixImeXvdv3lP79Okj/bnkrbfekurOuBsnjBIlSmzdulWqu+Hrr7++5OfuCnfddZcUtez33
+							3+Xxg54utPfwYMHrXxlZ37PX3nllbNnz0oz+4gTgd1www1SRWvEiBFSywfMG645l2VkWu+8846UCxHiRIQjTvjU33//LSdZRgYMG
+							CBt3HbixImhQ4c6+U7ZBBITSzy9oNkUnzFjhq3X4iDHieXLl1eqVEkeYUezZs1CvixSfHy881ty/6FmzZqffvqp678Vp06dGjt2r
+							ItfSqQzExe38o/rccLInz//V199JR04M27cOFeW002nG9VNN90k7R2wdZGVdXv27LF1IleoUOGzzz6TxjYRJwL4888/HS4rbPhnM
+							+l0zjcPDdrGRJdDnIhwxAn/srgijZlPJCUlSRsP7NixQzENMiHERBETSKSKN1avXq3YISFoceLo0aO9evXSvfOVKlVq//79Uiikp
+							k6dKmNyVdWqVadMmXL8+HHpxgEzz3vuuecKFiwopd0TGxvr4gVaXsQJIzo62rwTnzx5Urqxz5zjtnZnz1D16tV1cdGcQVLCgZiYm
+							Hnz5klFl6xatUr3bW2LFi0UM1fiRAAvv/yylNAysVBq+YbzpQjMG81ff/0l5UKBOBHhiBP+ZWa9cp5l5N1335U2nvnqq6/MFEH6y
+							4iZNrmygm0A+/bt69Kli26mHoQ4kZiY+OKLL6o/18+dO/evv/6aXsoPOnbsKCNzW44cOdq1azdr1iy7b4Spqam//fbbuHHjGjVqJ
+							LU8YKKU9OcGj+JEumLFir3++ut273c3SeyRRx6xeJWgdbNnz5YO7HNlJxwTsSZMmCAVnTG5yPya2b3r6UJZsmSxe484cSKAGjVqS
+							AmtJ554Qmr5RkpKivNvVl955RUpZ8dLL71k3kydc3jmVqlSRQo5JgeG4CJO+JeZLcl5lpHgrJB47ty5SZMm5c+fX3q9lGrVqrl16
+							cXlmAnTyJEjzYRburRv1KhRUssy63Fi7969Jq4UKVJE/sq+mJiYhQsXSsf+cOLEiYoVK8r4PGOmF3fddddTTz1l4vE333xjZlQ7d
+							+48ePCgiY5btmxZu3bt4sWLzW9g//79b7nllsC/h65w/W3J0ziRrkCBAg8//LD5PQx84f6uXbvefvvt5s2b29qX3aLq1as7uTzsp
+							59+cn4pS7rbb7/d4ee15kXY+WX6cXFxdr+FI05czvr166W9A24twOUu55t8m6Altexw/hvuN3JgCC6ed1+7+uqr5fzIyJw5c6SNx
+							44cOWLmK1myZJGO/8dM7yZOnGgihzzOG/PmzStbtqx0qfXll19KOcssvuDWqVPH4dXnZnr3wQcfSK9+snnzZtdvovCzBg0auL6yb
+							RDixHk5c+Zs2LBht27dTLgdN27chAkThg8f3rdv3xYtWriyR3gAzj9Q6N27t9RyzDwPQ4YMUawpt3HjRpMnL36hU/joo4+kqGXEi
+							ct5/PHHpb1WqVKlgvDpm8LixYtliA6YuCXlLCNOwBU87742atQoOT8yctVVV3k9lb/Q9u3bn3nmmVatWplXonbt2pkg4cpF8AFs2
+							LDBlasgzHtJcnKyFLXMrd3QAjNZYsaMGdKl/5hpoitLiPpf+fLlDxw4IIftnmDGiVDp2LGjHK0D5sWkdOnSUtENJuTfdtttU6ZM2
+							b17t/RxGeaV7fXXX3fxCjrdd1zEiUtKTU11HoZd2UPGC+aNKV++fDJKLRO3pJxlxAm4gufd1w4dOmT9ml2P1jMJucOHD/fq1cuVj
+							wkNxSeFRhAu9TEz9Q8//FD686u5c+d6cXmMr5QoUcKjO38yfZwoXLjwwYMH5Wid+e677zz6TStWrFjTpk27des2ePDgZ/9r2LBhP
+							Xr0uPnmm+1uV5+hChUqJCYmyiHZQZy4JFfu1P/++++lnP8430bWxC27lxoSJ+AKnne/69Kli5wiGTFvkyHfyMZd586dGzdunPMPb
+							NKZ2cn48eOltE2xsbFSxRt58+ZVXIIVEjNmzMjEicJkiS1btsihui1zx4moqKglS5bIobrB+nez/pQnT55NmzbJwdhEnLikhx56S
+							BprmcTr1rrPXpg/f74M1IFvvvlGyllDnIAreN79bsOGDXKKWNC1a1dpFv6++OKLypUry4E5VqdOnVWrVklpmw4ePChVvFG2bFm/L
+							YIemJlGZMqrnsqXL+/FPtPnOYwT119/vfyfLw0fPlyO0yVpaWndunWT6uHGRO4FCxbIkdhHnLjYmTNn8ubNK421evToIeV8KSkpy
+							flHVw8++KCUs4Y4AVfwvIcBW7MQ3cU8vrJly5bWrVvL8TgWFxc3depUJ/feOV8RPIA2bdokJCRIT+Fj+fLlXuzzEEL169f34n6JC
+							zmME88++6zzT2c9cv/993txe2tycrI5QaSPsOLwJijixMXmzp0rLR1YvHixlPOru+++W8aqZUKXrWUkiBNwBc97GFi3bp31lRPNS
+							8n27dulZbg5duzYwIED3frkO3v27K5spTdx4kSp6CozvFdffdWfa4xYYX7NatasKQcT5rp06XL69Gk5MM84jxOJiYlBuI3HLjPj9
+							24diLNnz95+++3SUziIjo7+97//LaPXIk5c7M4775SWWubNUbEOR5DNnj1bhuuAiV5SzgLiBFzB8x4e7r33XjlRLKhcuXLY3USRm
+							pr61ltvOd/H57y2bdu6dUPtPffcI0XdU6tWrd9++006CFtJSUm+/bzcopw5cwZhF8h0zuOEKWJ+bZxf8uGi9u3bB97jwrmUlJQHH
+							3xQ+vM3txZUIE78Q0JCQrZs2aSl1n333SflfCwxMdHJnonpzEuNlLOAOAFX8LyHh927d9vaubZp06Zev8e76Lvvvrvmmmtk6I7Vq
+							FFj6dKlUtoNpUqVktJuyJMnz7hx44K5qq/XFixY4PqSOMHRqFGjrVu3ymF4z5U4YZhfb5OC5G9Dqn///maunz4qr40dO9at5d08U
+							qxYseXLl8twnSFO/MObb74pzRwIlyuBb7vtNhmxloleR44ckXIZIU7AFTzvYeP555+Xc8WaNm3a+D9R7Nq1y/mloucVLFhw8uTJ7
+							s7Uf//9d6numJkM9ejRY//+/VI6E0lISOjTp08YrfiUP3/+N954I8hrvLgVJwyTKEL7HUWOHDnee+89GU2wrFy50vkulh5p2rTpv
+							n37ZKCOESf+oUmTJtJMyyTwpKQkKedv5sySQTtg/Yo74gRcwfMeNk6fPm33smk/J4qTJ08OGzbM1lcuAZiZer9+/by4p/mll16SP
+							hwww7v33nv/+OMPKZpJrVu3rkWLFnLMfhUTE2N+VQ4dOiSDDiIX44SxYcOG8uXLy78FV+3atUO1Fpl53TA/Pl99TWHmqRMmTHD3J
+							ijixIX27Nlj/e7By2nXrp2U870jR45kzZpVxq3VqFEjKZcR4gRcwfMeTr7//nu7r6qNGzf228JB5n13xowZxYsXlyE61rJlS+8mN
+							7Vq1ZJuVPLkydO3b1+PtkXzp2+//famm26S4/cTk1179OhhpiYy0KBzN04Yx44ds74vjSuuuOKKMWPGhPxSPROlWrVqJWMKqc6dO
+							//1118yLPcQJy40cuRIaePA9OnTpVw4cOVzmV27dkm5gIgTcAXPe5gZPHiwnDGWVaxYcePGjdI+1FavXl2/fn0ZmWPm0Jws7p4hW
+							5t+XMikvkaNGr311lsnT56UWhHm559/NjNdn1ziHxcXN2zYsL///lsGFyKux4l0S5YsqVq1qjzIMyaMmRefw4cPS68+sHz58lCFC
+							nOCd+jQYd26dTIUtxEnLuT81zsmJia8lid54403ZOgOvPjii1IuIOIEXMHzHmbOnj2r+Lw8NjZ26tSpUiJE9u7d6+InqXnz5h09e
+							rTXl3I9+uij0p812bJlu+mmm8aOHRvCj8B9JSEhYeLEiSZZyRMUXGYGfPfdd8+fP98nN757FCcMc4DTpk2rVq2aPNRVxYoVM2HMx
+							RsD3LV58+YBAwYUKlRIhuuxwoULDxo0yLut09MRJ85z/lQYLVu2lHJh4sCBA86v76pSpYqUC4g4AVfwvIefnTt35s+fX84bO9q1a
+							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
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAA
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAA
+							FAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AA
+							AAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiT
+							gAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAU
+							CJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAA
+							ABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOA
+							AAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQIk4AAAAAUCJOAAAAAFAiTgAAAABQI
+							k4AAAAAUPnPf/5fMSItboQK8I0AAAAASUVORK5CYII="/>
+				<rect v:rectContext="foreign" x="0" y="258.554" width="77.9528" height="23.811" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>
