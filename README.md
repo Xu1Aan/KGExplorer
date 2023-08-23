@@ -12,7 +12,7 @@
 
 ​	**模型框架图如下所示**：
 
-<img src=".\asset\模型框架.png" style="zoom:60%;" />
+<img src=".\asset\模型框架.png" width="700px" />
 
 ### 2 数据&模型
 
