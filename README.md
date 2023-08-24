@@ -25,4 +25,4 @@
 1. 实体-关系-实体
 2. 实体-属性-属性值
 
-**该项目用到的 Medical Data**：[[Medical Data]](./data/medical.json)
+**该项目用到的 Medical Data**：[[Medical Data]](data/medical/medical.json)
